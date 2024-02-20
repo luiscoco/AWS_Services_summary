@@ -10,7 +10,7 @@ Fully managed batch processing at any scale
 
 ### 1.3. EC2
 Virtual Servers in the Cloud
-8
+
 ### 1.4. EC2 Image Builder
 A managed service to automate build, customize and deploy OS images
 
@@ -33,6 +33,18 @@ Assemble, deploy, and share serverless applications within teams or publicly
 Build and run large-scale spatial simulations
 
 ## 2. Container services
+
+### 2.1. Elastic Container Registry (ECR)
+Fully-managed Docker container registry : Share and deploy container software, publicly or privately
+
+### 2.2. Elastic Container Service (ECS)
+Highly secure, reliable, and scalable way to run containers
+
+### 2.3. Elastic Kubernetes Service (EKR)
+The most trusted way to start, run, and scale Kubernetes
+
+### 2.4. Red Hat OpenShift Service on AWS 
+Fully managed Red Hat OpenShift service on AWS
 
 ## 3. Database services
 
