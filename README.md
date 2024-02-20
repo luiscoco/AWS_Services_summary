@@ -176,5 +176,72 @@ Isolated Cloud Resources
 
 ## 7. Security, Identity and Compliance services
 
+### 7.1. AWS Artifact
+Security compliance reports and agreements
 
+### 7.2. AWS Audit Manager
+Continuously assess controls for risk and compliance
+
+### 7.3. Certificate Manager
+Provision, Manage, and Deploy SSL/TLS Certificates
+
+### 7.4. CloudHSM
+Managed Hardware Security Modules in the Cloud
+
+### 7.5. Cognito
+Consumer Identity Management and AWS Credentials for Federated Identities
+
+### 7.6. Detective
+Investigate and Analyze potential security issues
+
+### 7.7. Directory Service
+Host and Manage Active Directory
+
+### 7.8. AWS Firewall Manager
+Central management of firewall rules
+
+### 7.9. GuardDuty
+Intelligent Threat Detection to Protect Your AWS Accounts and Workloads
+
+### 7.10. IAM
+Manage access to AWS resources
+
+### 7.11. IAM Identity Center
+Manage workforce user access to multiple AWS accounts and cloud applications
+
+### 7.12. Amazon Inspector
+Continual vulnerability management at scale
+
+### 7.13. Key Management Service
+Securely Generate and Manage AWS Encryption Keys
+
+### 7.14. Amazon Macie
+Amazon Macie classifies and secures your business-critical content.
+
+### 7.15. AWS Payment Cryptography
+On-demand payment HSM functionality for card transactions and key management
+
+### 7.16. AWS Private Certificate Authority
+Managed private certificate authority service
+
+### 7.17. Resource Access Manager
+Share AWS resources with other accounts or AWS Organizations
+
+### 7.18. Secrets Manager
+Easily rotate, manage, and retrieve secrets throughout their lifecycle
+
+### 7.19. Security Hub
+AWS Security Hub is AWS’s security and compliance center
+
+### 7.20. Security Lake
+Automatically centralize all your security data with a few clicks
+
+### 7.21. AWS Signer
+Ensuring trust and integrity of your code
+
+### 7.22. Amazon Verified Permissions
+Manage, analyze and enforce permissions across your applications
+
+### 7.23. WAF & Shield
+Protects Against DDoS Attacks and Malicious Web Traffic
 
