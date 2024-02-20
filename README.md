@@ -140,6 +140,11 @@ https://eu-west-3.console.aws.amazon.com/elasticbeanstalk/home?region=eu-west-3#
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/a1d3d9bd-d188-4160-ab4d-faa1f288f34f)
 
+See these video tutorials:
+
+**Deploy a Web Application Using Elastic Beanstalk (New Version of UI) | AWS Tutorial for Beginners**: https://www.youtube.com/watch?v=2BoVhej0QVI
+
+
 
 ### 1.6. Lambda
 Run code without thinking about servers
