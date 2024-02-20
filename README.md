@@ -1,5 +1,7 @@
 # AWS Services review
 
+See the detailed AWS services docs in the following link: https://docs.aws.amazon.com/index.html
+
 ## 1. Compute services
 
 ### 1.1. AWS App Runner
