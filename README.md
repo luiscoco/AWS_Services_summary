@@ -77,6 +77,47 @@ Amazon Timestream is a fast, scalable, and serverless time series database for I
 
 ## 4. Developer tools
 
+### 4.1. AWS AppConfig
+Use feature flags, operational flags, and other runtime configuration to make changes quickly and safely on production
+
+### 4.2. Application Composer
+Visually design and build modern applications quickly
+
+### 4.3. Cloud9
+A Cloud IDE for Writing, Running, and Debugging Code
+
+### 4.4. CloudShell
+A browser-based shell with AWS CLI access from the AWS Management Console
+
+### 4.5. CodeArtifact
+Secure, scalable, and cost-effective artifact management for software development
+
+### 4.6. CodeBuild
+Build and Test Code
+
+### 4.7. Amazon CodeCatalyst
+Integrated DevOps Service
+
+### 4.8. CodeCommit
+Store Code in Private Git Repositories
+
+### 4.9. CodeDeploy
+Automate Code Deployments
+
+### 4.10. CodePipeline
+Release Software using Continuous Delivery
+
+### 4.11. CodeStar
+Quickly develop, build, and deploy applications
+
+### 4.12. Amazon CodeWhisperer
+Build applications faster with the ML-powered coding companion.
+
+### 4.13. AWS FIS
+Improve resiliency and performance with controlled experiments.
+
+### 4.14. X-Ray
+Analyze and Debug Your Applications
 
 ## 5. Storage services
 
