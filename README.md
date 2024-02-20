@@ -144,6 +144,35 @@ Hybrid Storage Integration
 
 ## 6. Networking and content delivery services
 
+### 6.1. API Gateway
+Build, Deploy and Manage APIs
+
+### 6.2. AWS App Mesh
+Easily monitor and control microservices
+
+### 6.3. AWS Cloud Map
+Build a dynamic map of your cloud
+
+### 6.4. CloudFront
+Global Content Delivery Network
+
+### 6.5. Direct Connect
+Dedicated Network Connection to AWS
+
+### 6.6. Global Accelerator
+Improve your application’s availability and performance using the AWS Global Network
+
+### 6.7. AWS Private 5G
+Deploy and scale private mobile networks on-premises
+
+### 6.8. Route 53
+Scalable DNS and Domain Name Registration
+
+### 6.9. Route 53 Application Recovery Controller
+Monitor application recovery readiness and manage failovers
+
+### 6.10. VPC
+Isolated Cloud Resources
 
 ## 7. Security, Identity and Compliance services
 
