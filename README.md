@@ -152,10 +152,13 @@ https://www.youtube.com/watch?v=2BoVhej0QVI
 
 https://www.youtube.com/watch?v=kqIRZfuZ06Q
 
-
-
 ### 1.6. Lambda
-Run code without thinking about servers
+
+
+
+![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/67202d6a-436f-4763-8fc0-87bc51f94e5b)
+
+
 
 **AWS Lambda Mastery: From Beginner to Expert in 15 Minutes!**: https://www.youtube.com/watch?v=cetebcbzb54
 
