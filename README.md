@@ -142,14 +142,22 @@ https://eu-west-3.console.aws.amazon.com/elasticbeanstalk/home?region=eu-west-3#
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/a1d3d9bd-d188-4160-ab4d-faa1f288f34f)
 
-See these video tutorials:
+See these videos tutorials:
 
-**Deploy a Web Application Using Elastic Beanstalk (New Version of UI) | AWS Tutorial for Beginners**: https://www.youtube.com/watch?v=2BoVhej0QVI
+**Deploy a Web Application Using Elastic Beanstalk (New Version of UI) | AWS Tutorial for Beginners**: 
+
+https://www.youtube.com/watch?v=2BoVhej0QVI
+
+**Master AWS Elastic Beanstalk in Just 15 Minutes: A Complete Expert Guide!**: 
+
+https://www.youtube.com/watch?v=kqIRZfuZ06Q
 
 
 
 ### 1.6. Lambda
 Run code without thinking about servers
+
+**AWS Lambda Mastery: From Beginner to Expert in 15 Minutes!**: https://www.youtube.com/watch?v=cetebcbzb54
 
 ### 1.7. Lightsail
 Launch and Manage Virtual Private Servers
