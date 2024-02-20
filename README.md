@@ -4,6 +4,8 @@ For guided tutorials visit AWS WorkShops: https://workshops.aws/
 
 See the detailed AWS services docs in the following link: https://docs.aws.amazon.com/index.html
 
+See also AWS WorkShop Studio: https://catalog.workshops.aws/
+
 ## 1. Compute services
 
 ### 1.1. AWS App Runner
