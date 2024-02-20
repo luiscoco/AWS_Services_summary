@@ -66,6 +66,8 @@ https://eu-west-3.console.aws.amazon.com/batch/home?region=eu-west-3#wizard
 
 Also you can getting start with AWS Batch following these links:
 
+**AWS Batch WorkShop**: https://catalog.workshops.aws/aws-batch-deep-dive/en-US
+
 **Getting Started with AWS Batch on Amazon EC2**: https://docs.aws.amazon.com/batch/latest/userguide/getting-started-ec2.html
 
 **Getting Started with AWS Batch on Fargate**: https://docs.aws.amazon.com/batch/latest/userguide/getting-started-fargate.html
@@ -84,9 +86,13 @@ For getting started with AWS EC2 create a new instance pressing the buttons high
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/27d2ab95-a3e5-4cf4-901e-c32dfdf9d868)
 
+Also you can getting start with AWS EC2 following these links:
+
+**AWS EC2 WorkShop**: https://ec2spotworkshops.com/launching_ec2_spot_instances.html
 
 ### 1.4. EC2 Image Builder
-A managed service to automate build, customize and deploy OS images
+
+
 
 ### 1.5. Elastic Beanstalk
 Run and Manage Web Apps
