@@ -26,6 +26,8 @@ https://eu-west-3.console.aws.amazon.com/apprunner/home?region=eu-west-3#/create
 
 **AWS App Runner: Deep Dive - AWS Online Tech Talks**: https://www.youtube.com/watch?v=x_1X_4j16A4
 
+**AWS App Runner Explained | Overview and Console Walkthrough**: https://www.youtube.com/watch?v=TKirecwhJ2c
+
 **AWS App Runner WorkShop**: https://www.apprunnerworkshop.com/
 
 **Sample 1 AWS App Runnerhttps (youtube video)**://www.youtube.com/watch?v=ycdo9UyNs98
