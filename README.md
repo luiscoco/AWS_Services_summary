@@ -21,7 +21,14 @@ AWS App Runner builds and deploys web applications automatically, load balances 
 https://www.youtube.com/watch?v=4-zqJA3Akx8
 
 ### 1.2. Batch
-Fully managed batch processing at any scale
+
+https://aws.amazon.com/batch/
+
+![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/ddcf7cd3-2625-4ce7-a714-c044a096b0e9)
+
+**Fully managed batch processing**: AWS Batch is a fully managed batch computing service that plans, schedules, and runs your containerized batch or ML workloads across the full range of AWS compute offerings, such as Amazon ECS, Amazon EKS, AWS Fargate, and Spot or On-Demand Instances.
+
+
 
 ### 1.3. EC2
 Virtual Servers in the Cloud
