@@ -104,6 +104,10 @@ Also you can getting start with AWS EC2 following these links:
 
 https://aws.amazon.com/image-builder/
 
+https://docs.aws.amazon.com/imagebuilder/latest/userguide/what-is-image-builder.html
+
+![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/2ad422ab-e7cc-49c5-b3df-1a1165efad46)
+
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/c5495eb3-d711-482b-94a0-6102b34d4946)
 
 Image Builder provides a one-stop-shop to automate image management processes. Customers can generate an automated pipeline with an intuitive wizard in the AWS console to produce compliant Linux and Windows Server images for use on AWS and on-premises. When software updates become available, Image Builder automatically produces a new image and distributes it to stipulated AWS regions after running tests on it.
