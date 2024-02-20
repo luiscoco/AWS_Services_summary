@@ -12,9 +12,11 @@ AWS App Runner builds and deploys web applications automatically, load balances 
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/3d97573c-ca35-48dc-840b-dcca30f0fb0e)
 
-Sample 1 (youtube video) AWS App Runnerhttps://www.youtube.com/watch?v=ycdo9UyNs98
+**Sample 1 (youtube video) AWS App Runnerhttps**://www.youtube.com/watch?v=ycdo9UyNs98
 
+**Sample 2 AWS App Runner (youtube playlist)**: https://www.youtube.com/playlist?list=PLehXSATXjcQHjXDhdlypt0IB5BVD2xnoc
 
+**AWS re:Invent 2023 - Modernize your web applications and API services using AWS App Runner**: https://www.youtube.com/watch?v=4-zqJA3Akx8
 
 ### 1.2. Batch
 Fully managed batch processing at any scale
