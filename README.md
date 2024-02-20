@@ -12,6 +12,13 @@ AWS App Runner builds and deploys web applications automatically, load balances 
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/3d97573c-ca35-48dc-840b-dcca30f0fb0e)
 
+For getting started with AWS App Runner navigate to this URL and follow the wizard steps:
+
+https://eu-west-3.console.aws.amazon.com/apprunner/home?region=eu-west-3#/create
+
+![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/cb4efc5b-e619-45c9-8617-944afd23d0bd)
+
+
 **Sample 1 AWS App Runnerhttps (youtube video)**://www.youtube.com/watch?v=ycdo9UyNs98
 
 **Sample 2 AWS App Runner (youtube playlist)**: https://www.youtube.com/playlist?list=PLehXSATXjcQHjXDhdlypt0IB5BVD2xnoc
