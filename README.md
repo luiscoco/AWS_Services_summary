@@ -121,6 +121,26 @@ Analyze and Debug Your Applications
 
 ## 5. Storage services
 
+### 5.1. AWS Backup
+AWS Backup centrally manages and automates backups across AWS services
+
+### 5.2. EFS
+Managed File Storage for EC2
+
+### 5.3. AWS Elastic Disaster Recovery
+Scalable, cost-effective application recovery to AWS
+
+### 5.4. FSx
+Fully managed third-party file systems optimized for a variety of workloads
+
+### 5.5. S3
+Scalable Storage in the Cloud
+
+### 5.6. S3 Glacier
+Archive Storage in the Cloud
+
+### 5.7. Storage Gateway
+Hybrid Storage Integration
 
 ## 6. Networking and content delivery services
 
