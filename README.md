@@ -51,6 +51,14 @@ https://eu-west-3.console.aws.amazon.com/batch/home?region=eu-west-3#wizard
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/bc98f2a0-35da-44ac-a41d-fa6fdada4f38)
 
+Also you can getting start with AWS Batch following these links:
+
+**Getting Started with AWS Batch on Amazon EC2**: https://docs.aws.amazon.com/batch/latest/userguide/getting-started-ec2.html
+
+**Getting Started with AWS Batch on Fargate**: https://docs.aws.amazon.com/batch/latest/userguide/getting-started-fargate.html
+
+**Getting started with AWS Batch on Amazon EKS**: https://docs.aws.amazon.com/batch/latest/userguide/getting-started-eks.html
+
 ### 1.3. EC2
 Virtual Servers in the Cloud
 
