@@ -62,7 +62,17 @@ Also you can getting start with AWS Batch following these links:
 **Getting started with AWS Batch on Amazon EKS**: https://docs.aws.amazon.com/batch/latest/userguide/getting-started-eks.html
 
 ### 1.3. EC2
-Virtual Servers in the Cloud
+
+https://docs.aws.amazon.com/ec2/?icmpid=docs_homepage_featuredsvcs
+
+https://aws.amazon.com/ec2/?nc2=h_ql_prod_cp_ec2
+
+![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/a2070879-0227-46c3-bc1d-a94c977b5ac9)
+
+For getting started with AWS EC2 create a new instance pressing the buttons highlighted in the following image
+
+![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/27d2ab95-a3e5-4cf4-901e-c32dfdf9d868)
+
 
 ### 1.4. EC2 Image Builder
 A managed service to automate build, customize and deploy OS images
