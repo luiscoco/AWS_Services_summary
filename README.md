@@ -48,6 +48,32 @@ Fully managed Red Hat OpenShift service on AWS
 
 ## 3. Database services
 
+### 3.1. Amazon DocumentDB
+Fully-managed MongoDB-compatible database service
+
+### 3.2. DynamoDB
+Managed NoSQL Database
+
+### 3.3. ElastiCache
+In-Memory Cache
+
+### 3.4. Amazon Keyspaces
+Serverless Cassandra-compatible database
+
+### 3.5. Amazon MemoryDB for Redis
+Fully managed, Redis-compatible, in-memory database service
+
+### 3.6. Neptune
+Fast, reliable graph database built for the cloud
+
+### 3.7. Amazon QLDB
+Fully managed ledger database
+
+### 3.8. RDS
+Managed Relational Database Service
+
+### 3.9. Amazon Timestream
+Amazon Timestream is a fast, scalable, and serverless time series database for IoT and operational applications.
 
 ## 4. Developer tools
 
