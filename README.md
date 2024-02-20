@@ -84,6 +84,14 @@ https://aws.amazon.com/ec2/?nc2=h_ql_prod_cp_ec2
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/a2070879-0227-46c3-bc1d-a94c977b5ac9)
 
+Amazon Elastic Compute Cloud (Amazon EC2) offers the broadest and deepest compute platform, with over 750 instances and choice of the latest processor, storage, networking, operating system, and purchase model to help you best match the needs of your workload
+
+We are the first major cloud provider that supports Intel, AMD, and Arm processors, the only cloud with on-demand EC2 Mac instances, and the only cloud with 400 Gbps Ethernet networking
+
+We offer the best price performance for machine learning training, as well as the lowest cost per inference instances in the cloud
+
+More SAP, high performance computing (HPC), ML, and Windows workloads run on AWS than any other cloud
+
 For getting started with AWS EC2 create a new instance pressing the buttons highlighted in the following image
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/27d2ab95-a3e5-4cf4-901e-c32dfdf9d868)
