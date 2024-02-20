@@ -78,9 +78,9 @@ Also you can getting start with AWS Batch following these links:
 
 ### 1.3. EC2
 
-https://docs.aws.amazon.com/ec2/?icmpid=docs_homepage_featuredsvcs
-
 https://aws.amazon.com/ec2/?nc2=h_ql_prod_cp_ec2
+
+https://docs.aws.amazon.com/ec2/?icmpid=docs_homepage_featuredsvcs
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/a2070879-0227-46c3-bc1d-a94c977b5ac9)
 
@@ -102,7 +102,19 @@ Also you can getting start with AWS EC2 following these links:
 
 ### 1.4. EC2 Image Builder
 
+https://aws.amazon.com/image-builder/
 
+![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/c5495eb3-d711-482b-94a0-6102b34d4946)
+
+Image Builder provides a one-stop-shop to automate image management processes. Customers can generate an automated pipeline with an intuitive wizard in the AWS console to produce compliant Linux and Windows Server images for use on AWS and on-premises. When software updates become available, Image Builder automatically produces a new image and distributes it to stipulated AWS regions after running tests on it.
+
+**AWS EC2 Image Builder | Automate Image Creation in AWS**: https://www.youtube.com/watch?v=5KsXwj2Jke4
+
+**AWS EC2 Image Builder WorkShop**: https://catalog.us-east-1.prod.workshops.aws/workshops/d6c7ecdc-c75f-4ad1-910f-fdd994cc4aed/en-US/100-ec2-ib
+
+**EC2 Image Builder (youtube video)**: https://www.youtube.com/watch?v=S1eUw8ztAm8
+
+**AWS EC2 Image Builderhttps (youtube video)**://www.youtube.com/watch?v=KBF72Nq6N1k&t=22s
 
 ### 1.5. Elastic Beanstalk
 Run and Manage Web Apps
