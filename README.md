@@ -20,15 +20,112 @@ AWS App Runner builds and deploys web applications automatically, load balances 
 
 https://www.youtube.com/watch?v=4-zqJA3Akx8
 
-### 1.2. Batch
+### 1.2. AWS Batch
 
 https://aws.amazon.com/batch/
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/ddcf7cd3-2625-4ce7-a714-c044a096b0e9)
 
-**Fully managed batch processing**: AWS Batch is a fully managed batch computing service that plans, schedules, and runs your containerized batch or ML workloads across the full range of AWS compute offerings, such as Amazon ECS, Amazon EKS, AWS Fargate, and Spot or On-Demand Instances.
+**Fully managed batch processing**
+AWS Batch is a managed batch processing service that enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS
+
+AWS Batch removes the undifferentiated heavy lifting of configuring and managing the required infrastructure
+
+It dynamically provisions the optimal quantity and type of compute resources (e.g., CPU or memory optimized compute resources) based on the volume and specific resource requirements of the batch jobs submitted
+
+With AWS Batch, there is no need to install and manage batch computing software or server clusters. This allows you to focus on analyzing results and solving problems
+
+AWS Batch plans, schedules, and executes batch computing workloads using Amazon ECS, Amazon EKS, and AWS Fargate with an option to utilize spot instances
+
+**A simple example** would be:
+
+Here are the steps to provide a sample AWS Batch job using AWS CLI commands:
+
+**Prerequisites**
+
+An AWS account configured with AWS CLI.
+
+Basic understanding of Docker and containerization.
+
+**Create a Compute Environment**
+
+Bash
+aws batch create-compute-environment \
+    --compute-environment-name my-batch-compute-env \
+    --type MANAGED \
+    --state ENABLED \
+    --compute-resources type=EC2,minvCpus=0,maxvCpus=20,desiredvCpus=4,instanceTypes=optimal \ 
+    --service-role my-batch-service-role 
+Usa el código con precaución.
+Explanation:
+
+We use a managed compute environment for automatic scaling.
+Adjust instance types and vCPUs to suit your workload.
+Replace my-batch-service-role with an IAM role providing AWS Batch permissions.
 
 
+**Create a Job Queue**
+
+Bash
+aws batch create-job-queue \
+    --job-queue-name my-batch-job-queue \
+    --state ENABLED \
+    --priority 1 \
+    --compute-environment-order order=1,compute-environment=my-batch-compute-env 
+Usa el código con precaución.
+
+**Build and Push Your Docker Image**
+
+This assumes you have:
+
+A Dockerfile ready.
+An ECR (Elastic Container Registry) repository created.
+Bash
+docker build -t my-batch-app .
+aws ecr get-login-password | docker login --username AWS --password-stdin your-aws-account-id.dkr.ecr.your-region.amazonaws.com
+docker tag my-batch-app:latest your-aws-account-id.dkr.ecr.your-region.amazonaws.com/my-batch-app:latest
+docker push your-aws-account-id.dkr.ecr.your-region.amazonaws.com/my-batch-app:latest
+Usa el código con precaución.
+
+**Create a Job Definition**
+
+Bash
+aws batch register-job-definition \
+    --job-definition-name my-batch-job-def \
+    --type container \
+    --container-properties image=your-aws-account-id.dkr.ecr.your-region.amazonaws.com/my-batch-app:latest,vcpus=2,memory=4096
+Usa el código con precaución.
+Explanation:
+
+Set image URI to your pushed Docker image.
+Modify vcpus and memory requirements as needed.
+
+**Submit a Job**
+
+Bash
+aws batch submit-job \
+    --job-name my-batch-job \
+    --job-queue my-batch-job-queue \
+    --job-definition my-batch-job-def
+Usa el código con precaución.
+
+**Monitor the Job**
+
+Bash
+aws batch describe-jobs --jobs <job-id>  # Insert job ID returned from the previous step
+Usa el código con precaución.
+
+**Clean Up**
+
+Bash
+aws batch delete-job-queue --job-queue my-batch-job-queue
+aws batch delete-compute-environment --compute-environment my-batch-compute-env 
+Usa el código con precaución.
+Important Notes
+
+Error Handling: Include robust error handling in production cases.
+IAM Roles: Create appropriate roles with necessary permissions.
+AWS Batch Documentation: Thoroughly consult the AWS Batch documentation for additional options, advanced use cases, and best practices: https://docs.aws.amazon.com/batch/latest/userguide/what-is-batch.html
 
 ### 1.3. EC2
 Virtual Servers in the Cloud
