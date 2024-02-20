@@ -246,9 +246,13 @@ Automate Code Deployments
 ### 4.10. CodePipeline
 Release Software using Continuous Delivery
 
-**AWS Project - Build a Game with a Continuous Deployment Pipeline from GitHub to S3 | AWS Tutorial**: https://www.youtube.com/watch?v=biYVW1TMYAU
+**AWS Project - Build a Game with a Continuous Deployment Pipeline from GitHub to S3 | AWS Tutorial**: 
 
-**Building your first DevOps Blue/Green pipeline with Amazon ECS Workshop**: https://catalog.us-east-1.prod.workshops.aws/workshops/4b59b9fb-48b6-461c-9377-907b2e33c9df/en-US
+https://www.youtube.com/watch?v=biYVW1TMYAU
+
+**Building your first DevOps Blue/Green pipeline with Amazon ECS Workshop**:
+
+https://catalog.us-east-1.prod.workshops.aws/workshops/4b59b9fb-48b6-461c-9377-907b2e33c9df/en-US
 
 ### 4.11. CodeStar
 Quickly develop, build, and deploy applications
