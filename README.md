@@ -8,8 +8,6 @@ See the detailed AWS services docs in the following link: https://docs.aws.amazo
 
 https://aws.amazon.com/apprunner/
 
-https://www.apprunnerworkshop.com/
-
 https://docs.aws.amazon.com/en_us/apprunner/
 
 https://www.luminis.eu/blog/cloud-en/a-first-impression-of-aws-app-runner/
@@ -26,6 +24,9 @@ https://eu-west-3.console.aws.amazon.com/apprunner/home?region=eu-west-3#/create
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/cb4efc5b-e619-45c9-8617-944afd23d0bd)
 
+**AWS App Runner: Deep Dive - AWS Online Tech Talks**: https://www.youtube.com/watch?v=x_1X_4j16A4
+
+**AWS App Runner WorkShop**: https://www.apprunnerworkshop.com/
 
 **Sample 1 AWS App Runnerhttps (youtube video)**://www.youtube.com/watch?v=ycdo9UyNs98
 
