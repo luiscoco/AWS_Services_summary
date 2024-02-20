@@ -121,7 +121,25 @@ Image Builder provides a one-stop-shop to automate image management processes. C
 **AWS EC2 Image Builderhttps (youtube video)**://www.youtube.com/watch?v=KBF72Nq6N1k&t=22s
 
 ### 1.5. Elastic Beanstalk
-Run and Manage Web Apps
+
+https://aws.amazon.com/elasticbeanstalk
+
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
+
+![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/30a8379e-6087-4cc3-a04e-b54355ed1ff4)
+
+![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/fc931bf1-cc10-451d-839c-4950de576bc2)
+
+Elastic Beanstalk is a service for deploying and scaling web applications and services
+
+Upload your code and Elastic Beanstalk automatically handles the deployment—from capacity provisioning, load balancing, and auto scaling to application health monitoring
+
+For getting started create a new Elastic Beanstalk application
+
+https://eu-west-3.console.aws.amazon.com/elasticbeanstalk/home?region=eu-west-3#/create-environment
+
+![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/a1d3d9bd-d188-4160-ab4d-faa1f288f34f)
+
 
 ### 1.6. Lambda
 Run code without thinking about servers
