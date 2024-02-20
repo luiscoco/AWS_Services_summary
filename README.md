@@ -8,6 +8,12 @@ See the detailed AWS services docs in the following link: https://docs.aws.amazo
 
 https://aws.amazon.com/apprunner/
 
+https://www.apprunnerworkshop.com/
+
+https://docs.aws.amazon.com/en_us/apprunner/
+
+https://www.luminis.eu/blog/cloud-en/a-first-impression-of-aws-app-runner/
+
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/ebd6719b-aa71-426a-b656-d272b17c6552)
 
 AWS App Runner builds and deploys web applications automatically, load balances traffic with encryption, scales to meet your traffic needs, and allows for the configuration of how services are accessed and communicate with other AWS applications in a private Amazon VPC.
