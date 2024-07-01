@@ -160,8 +160,6 @@ https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html
 
 ![image](https://github.com/luiscoco/AWS_Services_summary/assets/32194879/67202d6a-436f-4763-8fc0-87bc51f94e5b)
 
-
-
 **AWS Lambda Mastery: From Beginner to Expert in 15 Minutes!**: https://www.youtube.com/watch?v=cetebcbzb54
 
 ### 1.7. Lightsail
@@ -396,4 +394,67 @@ Manage, analyze and enforce permissions across your applications
 
 ### 7.23. WAF & Shield
 Protects Against DDoS Attacks and Malicious Web Traffic
+
+## 8. Analytics
+
+### 8.1. Athena
+Serverless interactive analytics service
+
+### 8.2. AWS Clean Romms
+Easily and security collaborate on collective datasets without sharing or revealing underlying raw data
+
+### 8.3. CloudSearch
+Managed Search Service
+
+### 8.4. AWS Data Exchange
+Easily find, subscribe to, and use third-party data
+
+### 8.5. Amazon Data Firehose
+Real-time streaming delivery for any data, at any scale, at low-cost
+
+### 8.6. Data Pipeline
+Orchestration for Data-Driven Workflows
+
+### 8.7. Amazon DataZone
+Unlock data across organizational boundaries with built-in governance
+
+### 8.8. EMR
+Managed Hadoop Framework
+
+### 8.9. AWS Entity Resolution
+Easy-to-configure, machine learning powered entity resolution service
+
+### 8.10. Amazon FinSpace
+Store, catalog, prepare, and analyze financial industry data
+
+### 8.11. AWS Glue
+AWS Glue is a serverless data integration service
+
+### 8.12. AWS Glue DataBrew
+Visual data preparation tool to clean and normalize data for analytics and machine learning
+
+### 8.13. Kinesis
+Work with Real-Time Streaming Data
+
+### 8.14. AWS Lake Formation
+AWS Lake Formation makes it easy to set up a secure data lake
+
+### 8.15. Managed Apache Flink
+Fully managed, highly available, and secure service for Apache Flink
+
+### 8.16. MSK
+Fully managed, highly available, and secure service for Apache Flink
+
+### 8.17. Amazon OpenSearch Service
+Run open-source OpenSearch or Elasticsearch using Managed Clusters or Serverless deployments
+
+### 8.18. QuickSight
+Fast, easy to use business analytics
+
+### 8.19. Amazon Redshift
+Fast, Simple, Cost-Effective Data Warehousing
+
+
+
+
 
