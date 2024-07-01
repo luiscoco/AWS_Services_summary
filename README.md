@@ -454,6 +454,14 @@ Fast, easy to use business analytics
 ### 8.19. Amazon Redshift
 Fast, Simple, Cost-Effective Data Warehousing
 
+## 9. Application Integration
+
+### 9.1. Amazon AppFlow
+Amazon AppFlow integrates apps and automates data flows without code
+
+### 9.2. AWS B2B Data Interchange
+Build and run EDI-based workflows at cloud scale
+
 
 
 
